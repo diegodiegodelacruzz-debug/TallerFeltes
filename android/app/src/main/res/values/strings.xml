@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Taller Feltes</string>
+    <string name="title_activity_main">Taller Feltes</string>
+    <string name="package_name">com.tallermotos.feltes</string>
+    <string name="custom_url_scheme">com.tallermotos.feltes</string>
+</resources>
