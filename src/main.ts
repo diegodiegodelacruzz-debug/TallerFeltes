@@ -562,6 +562,19 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
     <div>
       <span>AV. SÁENZ 658 · POMPEYA · CABA</span>
     </div>
+    <div class="social-links">
+      <span class="social-title">Seguinos en nuestras redes</span>
+      <div class="social-buttons">
+        <a class="social-facebook" href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer" aria-label="Seguinos en Facebook">
+          <span class="social-icon">f</span>
+          <span>Seguinos en Facebook</span>
+        </a>
+        <a class="social-tiktok" href="https://www.tiktok.com/" target="_blank" rel="noopener noreferrer" aria-label="Seguinos en TikTok">
+          <span class="social-icon">♪</span>
+          <span>Seguinos en TikTok</span>
+        </a>
+      </div>
+    </div>
   </footer>
 
   <!-- LIGHTBOX -->
